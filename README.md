@@ -82,6 +82,12 @@ short:   {"pass": 120}
 medium:  {"pass": 120}
 ```
 
+### 效果截图
+
+| 官网下载与逆向任务执行 | `gpt-5.5 xhigh` 与 `gpt-5.6-sol xhigh` 效果对比 |
+|---|---|
+| ![官网下载与逆向任务执行效果](docs/images/test-official-download-reverse-engineering.jpg) | ![gpt-5.5 xhigh 与 gpt-5.6-sol xhigh 效果对比](docs/images/test-gpt55-vs-gpt56-sol-xhigh.jpg) |
+
 记录文件：
 
 ```text
@@ -125,8 +131,6 @@ Exploits official config mechanism. No binary mod, no MITM, no process tampering
 ## License
 
 MIT
-
-`LICENSE` 内容与 [Codex-5.5-codex-instruct-5.5](https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5) 保持一致。
 
 ## 致谢 / Thanks
 
@@ -209,8 +213,6 @@ Exploits official config mechanism. No binary mod, no MITM, no process tampering
 ## License
 
 MIT
-
-The `LICENSE` file matches [Codex-5.5-codex-instruct-5.5](https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5).
 
 ## Thanks
 
